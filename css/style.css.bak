@@ -1,0 +1,4 @@
+.navbar{
+	background-color: #606060;
+	color:#red;
+}
